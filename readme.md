@@ -1,6 +1,6 @@
 # Readme はじめにお読みください
 
-本ドキュメントは本研究を引き継ぐ方または使用される方に向け、本研究の内容やファイル構造・プログラムの解説を行うことを目的として作成されました。
+本ドキュメントは本研究を引き継ぐ方または使用される方に向け、本研究の内容やファイル構造・プログラムの解説を行うことを目的として作成されました。  
 本研究について各種ファイルなどの詳細は[https://github.com/kimshow/Distillation_Gym_feedopt](https://github.com/kimshow/Distillation_Gym_feedopt "GItHub")をご覧下さい。
 
 # Distillation-Gym-feedopt の概要
@@ -120,7 +120,7 @@ COCO のシミュレーターファイルを環境として扱い、この各フ
 
 ## ファイル構造
 
-distillation_gym_fo
+distillation_gym_fo  
 ├─Asynchronous_test：使わない
 
 ├─DDPG：使わない(別の手法)
@@ -137,7 +137,7 @@ distillation_gym_fo
 │ │ ├─CONFIG_n\_\_なんか数字の羅列.obj：実行のたびに実行で得たデータを記録するメモリー(日付で記録してくれている)
 Utils：そのほかの設定
 Deep_Reinforcement_Learning_for_Process_Synthesis.pdf：論文
-readme.md：このファイル
+readme.md：このファイル  
 requirements.txt：ライブラリインストール用
 
 ## Tips
