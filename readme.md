@@ -1,6 +1,7 @@
 # Readme はじめにお読みください
 
 本ドキュメントは本研究を引き継ぐ方または使用される方に向け、本研究の内容やファイル構造・プログラムの解説を行うことを目的として作成されました。
+本研究について各種ファイルなどの詳細は[https://github.com/kimshow/Distillation_Gym_feedopt](https://github.com/kimshow/Distillation_Gym_feedopt "GItHub")をご覧下さい。
 
 # Distillation-Gym-feedopt の概要
 
