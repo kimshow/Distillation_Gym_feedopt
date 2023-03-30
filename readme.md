@@ -121,6 +121,7 @@ COCO のシミュレーターファイルを環境として扱い、この各フ
 
 distillation_gym_fo
 ├─Asynchronous_test：使わない
+
 ├─DDPG：使わない(別の手法)
 ├─Env：環境の設定
 ├─Hard_Actor_Critic：使わない(別の手法)
